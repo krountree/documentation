@@ -8,7 +8,7 @@ We encourage and value all types of contributions from our community. Please mak
 
 > **AI usage**
 >
-> If you use AI to write your contribution, check the content is accurate before submitting it to us. Don't attribute AI as a co-author.
+> If you use AI to write your contribution, check the content is accurate before submitting it to us. Don't attribute AI as a co-author, and don't assume AI is accurate!!!!
 
 ## Contribute
 
